@@ -1,2 +1,4 @@
 # leetcode-self
-a project for me to compelete leetcode of two weeks examination
+A project for me to compelete the leetcode of two weeks examination
+
+14天算法基础练习题项目
